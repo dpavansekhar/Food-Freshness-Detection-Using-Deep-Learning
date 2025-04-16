@@ -131,10 +131,9 @@ Each model was evaluated on four metrics:
 ---
 
 ## 🏆 Best Model
-**MobileNetV2 with Agglomerative Clustering** achieved the highest balance of performance:
-- **Accuracy**: 0.82
+**AlexNet with Agglomerative Clustering** achieved the highest balance of performance:
+- **Accuracy**: 0.84
 - **F1 Score**: 0.83
-- Efficient and lightweight model ideal for deployment on resource-constrained environments.
 
 ---
 
