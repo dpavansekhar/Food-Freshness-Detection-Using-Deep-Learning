@@ -3,6 +3,37 @@
 This project focuses on detecting fruit quality by combining image preprocessing, data augmentation, clustering (K-Means, Agglomerative, DBSCAN), and deep learning model training. The models were evaluated on clustered data to assess the impact of clustering techniques on classification performance.
 
 ---
+## About the Dataset
+The Food Freshness DataSet is a labeled image dataset designed to support machine learning research in the area of food quality classification. It contains images of fruits and vegetables categorized by their freshness level—from fresh to rotten. This dataset is a merged version of three publicly available datasets, refined through preprocessing and augmentation to ensure high-quality and consistent input for deep learning models.
+
+Each image has been standardized (128x128 resolution), normalized, and enhanced through techniques such as grayscale conversion, edge detection, and brightness adjustment. Labels are derived from visual inspection and clustering analysis (K-means, agglomerative), representing multiple stages of food quality. This dataset is ideal for developing computer vision models for food spoilage detection, food safety applications, and smart inventory management systems.
+
+![image](https://github.com/user-attachments/assets/bd42c6e1-fe22-460e-b0a2-b2c4ce8ab2f4)
+
+This dataset is a curated and combined version of the following publicly available datasets on Kaggle:
+- [Food Freshness by AlineSellwia](https://www.kaggle.com/datasets/alinesellwia/food-freshness)
+- [Fresh and Stale Classification by swoyam2609](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification)
+- [Fruits and Vegetables Dataset by muhriddinmuxiddinov](https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset)
+Images from these sources were carefully selected and manually reviewed. The dataset was then processed to ensure consistency in image size, format, and quality. Transformations include resizing to 128x128, normalization, grayscale conversion, noise reduction, edge detection, and categorization based on freshness levels. Additionally, class balance was maintained, and augmentation techniques (flipping, rotation, brightness adjustments) were applied to increase variability and robustness of the dataset.
+
+This finalized dataset serves as a comprehensive resource for food freshness classification tasks using machine learning and deep learning techniques.
+---
+## 📦 Dataset Details
+
+- **Total Size**: 6.41 GB  
+- **Total Classes**: 13  
+- **Labels**: Fresh / Rotten  
+- **File Types**: `.jpg`, `.jpeg`, `.png`  
+- **Applications**: Image Classification, Freshness Detection, Computer Vision in Agriculture  
+---
+## 📌 Usage
+
+You can use this dataset for:
+
+- Training deep learning models to detect fruit freshness
+- Building mobile or web-based freshness detection tools
+- Research in food quality monitoring using AI
+---
 
 ## 📁 Dataset Preparation
 The dataset contains fruit images labeled under the categories "Fresh" and "Rotten". The images were processed as follows:
