@@ -14,6 +14,7 @@ This dataset is a curated and combined version of the following publicly availab
 - [Food Freshness by AlineSellwia](https://www.kaggle.com/datasets/alinesellwia/food-freshness)
 - [Fresh and Stale Classification by swoyam2609](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification)
 - [Fruits and Vegetables Dataset by muhriddinmuxiddinov](https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset)
+
 Images from these sources were carefully selected and manually reviewed. The dataset was then processed to ensure consistency in image size, format, and quality. Transformations include resizing to 128x128, normalization, grayscale conversion, noise reduction, edge detection, and categorization based on freshness levels. Additionally, class balance was maintained, and augmentation techniques (flipping, rotation, brightness adjustments) were applied to increase variability and robustness of the dataset.
 
 This finalized dataset serves as a comprehensive resource for food freshness classification tasks using machine learning and deep learning techniques.
