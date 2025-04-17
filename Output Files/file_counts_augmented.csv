@@ -1,0 +1,27 @@
+Category,Freshness,Folder Path,Image Count
+FreshOkara,Fresh,Fresh/FreshOkara,500
+FreshOrange,Fresh,Fresh/FreshOrange,500
+FreshBanana,Fresh,Fresh/FreshBanana,500
+FreshCarrot,Fresh,Fresh/FreshCarrot,500
+FreshMango,Fresh,Fresh/FreshMango,500
+FreshTomato,Fresh,Fresh/FreshTomato,500
+FreshCucumber,Fresh,Fresh/FreshCucumber,500
+FreshStrawberry,Fresh,Fresh/FreshStrawberry,500
+FreshCapciscum,Fresh,Fresh/FreshCapciscum,500
+FreshBellpepper,Fresh,Fresh/FreshBellpepper,500
+FreshApple,Fresh,Fresh/FreshApple,500
+FreshPotato,Fresh,Fresh/FreshPotato,500
+FreshBittergroud,Fresh,Fresh/FreshBittergroud,500
+RottenPotato,Rotten,Rotten/RottenPotato,500
+RottenTomato,Rotten,Rotten/RottenTomato,500
+RottenBanana,Rotten,Rotten/RottenBanana,500
+RottenOkra,Rotten,Rotten/RottenOkra,500
+RottenCapsicum,Rotten,Rotten/RottenCapsicum,500
+RottenStrawberry,Rotten,Rotten/RottenStrawberry,500
+RottenCarrot,Rotten,Rotten/RottenCarrot,500
+RottenMango,Rotten,Rotten/RottenMango,500
+RottenApple,Rotten,Rotten/RottenApple,500
+RottenBittergroud,Rotten,Rotten/RottenBittergroud,500
+RottenOrange,Rotten,Rotten/RottenOrange,500
+RottenBellpepper,Rotten,Rotten/RottenBellpepper,500
+RottenCucumber,Rotten,Rotten/RottenCucumber,500

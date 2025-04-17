@@ -1,0 +1,12 @@
+Cluster Classification Report:
+               precision    recall  f1-score   support
+
+        Fresh       0.55      0.88      0.67        64
+       Rotten       0.78      0.71      0.74        55
+Slightly_Aged       0.68      0.67      0.67        66
+      Spoiled       0.68      0.47      0.56        57
+        Stale       0.33      0.06      0.10        18
+
+     accuracy                           0.64       260
+    macro avg       0.60      0.56      0.55       260
+ weighted avg       0.64      0.64      0.62       260
