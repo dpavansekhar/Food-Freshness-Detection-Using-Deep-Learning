@@ -140,10 +140,10 @@ Each model was evaluated on four metrics:
 ---
 
 ## 👨‍💻 Contributors
-1. ![Dogga Pavan Sekhar](https://www.linkedin.com/in/dogga-pavan-sekhar-006a83252/)
-2. ![Saragadam Kundana Chinni](https://www.linkedin.com/in/saragadam-kundana-chinni-b17321297/) 
-3. ![Thalluru Lakshmi Prasanna](https://www.linkedin.com/in/thalluru-lakshmi-prasanna-322a76330/) 
-4. ![Kesa Veera Venkata Yaswanth](https://www.linkedin.com/in/kesa-veera-venkata-yaswanth-6ba447281)
+1. [Dogga Pavan Sekhar](https://www.linkedin.com/in/dogga-pavan-sekhar-006a83252/)
+2. [Saragadam Kundana Chinni](https://www.linkedin.com/in/saragadam-kundana-chinni-b17321297/) 
+3. [Thalluru Lakshmi Prasanna](https://www.linkedin.com/in/thalluru-lakshmi-prasanna-322a76330/) 
+4. [Kesa Veera Venkata Yaswanth](https://www.linkedin.com/in/kesa-veera-venkata-yaswanth-6ba447281)
 
 ---
 
