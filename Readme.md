@@ -139,6 +139,38 @@ Each model was evaluated on four metrics:
 
 ---
 
+## Testing on New Data Results
+
+You can refer to the images from the Testing Folder
+
+|-----------------------------------------Tested on K Means Clustering Models-----------------------------------------|
+| Model         | Testing Files/RottenMango_1.jpg | Testing Files/RottenMango_2.jpg | Testing Files/RottenMango_3.jpg |
+|---------------|---------------------------------|---------------------------------|---------------------------------|
+| **AlexNet** | Spoiled | Spoiled | Spoiled |
+| **VGG16** | Spoiled | Spoiled | Spoiled |
+| **VGG19** | Spoiled | Spoiled | Slate |
+| **MobileNetV2** | Spoiled | Slate | Spoiled |
+| **ResNet50** | Slate | Slate | Slate |
+| **DenseNet121** | Spoiled | Spoiled | Spoiled |
+| **InceptionV3** | Spoiled | Slate | Slate |
+| **Xception** | Spoiled | Slate | Spoiled |
+
+---
+
+|--------------------------------------Tested on Agglomerative Clustering Models--------------------------------------|
+| Model         | Testing Files/RottenMango_1.jpg | Testing Files/RottenMango_2.jpg | Testing Files/RottenMango_3.jpg |
+|---------------|---------------------------------|---------------------------------|---------------------------------|
+| **AlexNet** | Slate | Slate | Rotten |
+| **VGG16** | Rotten | Rotten | Rotten |
+| **VGG19** | Rotten | Slate | Slate |
+| **MobileNetV2** | Rotten | Slate | Slate |
+| **ResNet50** | Rotten | Rotten | Rotten |
+| **DenseNet121** | Rotten | Rotten | Rotten |
+| **InceptionV3** | Rotten | Rotten | Rotten |
+| **Xception** | Spoiled | Slate | Rotten |
+
+---
+
 ## 👨‍💻 Contributors
 1. [Dogga Pavan Sekhar](https://www.linkedin.com/in/dogga-pavan-sekhar-006a83252/)
 2. [Saragadam Kundana Chinni](https://www.linkedin.com/in/saragadam-kundana-chinni-b17321297/) 
