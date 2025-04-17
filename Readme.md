@@ -35,6 +35,8 @@ You can use this dataset for:
 - Building mobile or web-based freshness detection tools
 - Research in food quality monitoring using AI
 ---
+## Model Architecture
+![Model Architecture](https://github.com/user-attachments/assets/cf890e9f-35bc-4640-9710-1ab0f5f13f35)
 
 ## 📁 Dataset Preparation
 The dataset contains fruit images labeled under the categories "Fresh" and "Rotten". The images were processed as follows:
