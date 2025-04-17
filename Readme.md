@@ -143,7 +143,7 @@ Each model was evaluated on four metrics:
 
 You can refer to the images from the Testing Folder
 
-|-----------------------------------------Tested on K Means Clustering Models-----------------------------------------|
+### Tested on K Means Clustering Models
 | Model         | Testing Files/RottenMango_1.jpg | Testing Files/RottenMango_2.jpg | Testing Files/RottenMango_3.jpg |
 |---------------|---------------------------------|---------------------------------|---------------------------------|
 | **AlexNet** | Spoiled | Spoiled | Spoiled |
@@ -157,7 +157,7 @@ You can refer to the images from the Testing Folder
 
 ---
 
-|--------------------------------------Tested on Agglomerative Clustering Models--------------------------------------|
+### Tested on Agglomerative Clustering Models
 | Model         | Testing Files/RottenMango_1.jpg | Testing Files/RottenMango_2.jpg | Testing Files/RottenMango_3.jpg |
 |---------------|---------------------------------|---------------------------------|---------------------------------|
 | **AlexNet** | Slate | Slate | Rotten |
