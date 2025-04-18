@@ -11,9 +11,9 @@ Each image has been standardized (128x128 resolution), normalized, and enhanced 
 ![image](https://github.com/user-attachments/assets/bd42c6e1-fe22-460e-b0a2-b2c4ce8ab2f4)
 
 This dataset is a curated and combined version of the following publicly available datasets on Kaggle:
-- [Food Freshness by AlineSellwia](https://www.kaggle.com/datasets/alinesellwia/food-freshness)
-- [Fresh and Stale Classification by swoyam2609](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification)
-- [Fruits and Vegetables Dataset by muhriddinmuxiddinov](https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset)
+[1] [Food Freshness by AlineSellwia](https://www.kaggle.com/datasets/alinesellwia/food-freshness)
+[2] [Fresh and Stale Classification by swoyam2609](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification)
+[3] [Fruits and Vegetables Dataset by muhriddinmuxiddinov](https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset)
 
 Images from these sources were carefully selected and manually reviewed. The dataset was then processed to ensure consistency in image size, format, and quality. Transformations include resizing to 128x128, normalization, grayscale conversion, noise reduction, edge detection, and categorization based on freshness levels. Additionally, class balance was maintained, and augmentation techniques (flipping, rotation, brightness adjustments) were applied to increase variability and robustness of the dataset.
 
@@ -26,7 +26,7 @@ This finalized dataset serves as a comprehensive resource for food freshness cla
 - **Labels**: Fresh / Rotten  
 - **File Types**: `.jpg`, `.jpeg`, `.png`  
 - **Applications**: Image Classification, Freshness Detection, Computer Vision in Agriculture  
-- **Dataset Link**: [Finalized Datset](https://www.kaggle.com/datasets/ulnnproject/food-freshness-dataset)
+- **Dataset Link**: [4] [Finalized Datset](https://www.kaggle.com/datasets/ulnnproject/food-freshness-dataset)
 ---
 ## 📌 Usage
 
