@@ -26,6 +26,7 @@ This finalized dataset serves as a comprehensive resource for food freshness cla
 - **Labels**: Fresh / Rotten  
 - **File Types**: `.jpg`, `.jpeg`, `.png`  
 - **Applications**: Image Classification, Freshness Detection, Computer Vision in Agriculture  
+- **Dataset Link**: ![Finalized Datset](https://www.kaggle.com/datasets/ulnnproject/food-freshness-dataset)
 ---
 ## 📌 Usage
 
