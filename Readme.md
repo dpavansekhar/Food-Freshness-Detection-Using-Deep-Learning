@@ -188,3 +188,6 @@ You can refer to the images from the Testing Folder
 - Extending to multi-fruit classification
 - Real-time deployment on mobile devices using TensorFlow Lite or ONNX
 
+---
+
+Feel Free to contact `doggapavansekhar@gmail.com`.
